@@ -1044,6 +1044,17 @@
     "StatusTagId": "",
     "StatusNote": ""
   },
+    {
+    "Id": "365-378767af-7aa8-4b68-9d0f-709b6948a76b",
+    "Title": "Welkom bij p365",
+    "Description": "",
+    "Url": "https://academyadmin9.wixsite.com/p365-academy?embed=true",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "StatusTagId": "",
+    "StatusNote": ""
+  },
   {
     "Id": "36ccdd4c-6858-4ede-8e4a-e571e857352a",
     "Title": "Afbeeldingseffecten toevoegen en wijzigen",
