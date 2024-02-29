@@ -3201,6 +3201,24 @@
     ]
   },
   {
+    "Id": "12ab34cd-5678-9012-3456-7890abcd1234",
+    "Title": "Dashboard",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Leer van begin tot eind het toevoegen van een template en het koppelen van metadata aan een document",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
+  {
     "Id": "e6a1b3e5-2a4f-7d02-cde1-90f2b1a3d4c5",
     "Title": "Provisioning",
     "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
