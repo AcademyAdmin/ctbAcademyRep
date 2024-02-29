@@ -1,7 +1,7 @@
 [
     {
     "Id": "959166d8-1cb7-4444-af20-541598ebecaa",
-    "Title": "Start met het gebruik van P365 ",
+    "Title": "Start met het gebruik van P365",
     "Image": "images/playlists/six_simple_steps_-_welcome_to_office_365.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
     "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
@@ -3205,7 +3205,7 @@
       "6a7abb9e-0a36-448b-8704-f64a92ee2097"
     ]
   },
-      {
+  {
     "Id": "e6a1b3e5-2a4f-7d02-cde1-90f2b1a3d4c5",
     "Title": "Provisioning",
     "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
@@ -3220,6 +3220,96 @@
     "StatusNote": "",
     "Assets": [
       "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+    ]
+  },
+  {
+    "Id": "f6d2c4a8-6095-3b01-efb2-40c7d9e8a7b6",
+    "Title": "Entities",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
+  {
+    "Id": "b2c3e4f5-7081-9a07-d6b5-80c4a3b2e1f0",
+    "Title": "Document Templates",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
+  {
+    "Id": "a1b2c3d4-5098-2c06-fab9-50e6a7b8c9d0",
+    "Title": "Monitoring",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
+  {
+    "Id": "d5c4b3a2-3098-7b06-fedc-50e4a3b2c1d0",
+    "Title": "Settings",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
+  {
+    "Id": "f0e1d2c3-7059-6a02-bced-40a2d3c4e5f6",
+    "Title": "Management",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
     ]
   },
   {
