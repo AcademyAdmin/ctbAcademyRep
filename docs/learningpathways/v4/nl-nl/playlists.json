@@ -1,4 +1,21 @@
 [
+    {
+    "Id": "031fdb49-1480-1a70-8559-5caeaec1a640",
+    "Title": "Dashboard",
+    "Image": "images/playlists/items.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "304b216c-ea4d-436c-83f8-93ba1319943b",
+    "TechnologyId": "0ae04ffb-5e69-461d-919d-a2215109bf49",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "9d9a29c7-72fe-475e-9dd1-d999259d02cb",
+    "Description": "Leer van begin tot eind het toevoegen van een template en het koppelen van metadata aan een document",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "3e0d1265-ef57-4a1e-a37e-bbebe7063202"
+    ]
+  },
   {
     "Id": "959166d8-1cb7-4444-af20-541598ebecaa",
     "Title": "Start met het gebruik van P365",
