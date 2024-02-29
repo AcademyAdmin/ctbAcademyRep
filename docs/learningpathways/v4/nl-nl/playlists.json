@@ -3228,6 +3228,24 @@
       "6a7abb9e-0a36-448b-8704-f64a92ee2097"
     ]
   },
+      {
+    "Id": "d4df5f82-2049-4c03-aab3-50e5a2dc8ad2",
+    "Title": "Provisioning",
+    "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
+    "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
+    "AudienceId": "9fcd26c3-bcca-4452-a40a-f87e0daed348",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
+    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
+      "7d109c19-ffe7-4274-a821-5432add664c5"
+    ]
+  },
   {
     "Id": "2885901b-1655-4311-a7f9-025852a659e4",
     "Title": "Tekst opmaken",
