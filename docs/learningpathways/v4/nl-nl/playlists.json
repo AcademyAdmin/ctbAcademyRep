@@ -3206,7 +3206,7 @@
     ]
   },
       {
-    "Id": "d4df5f82-2049-4c03-aab3-50e5a2dc8ad2",
+    "Id": "e6a1b3e5-2a4f-7d02-cde1-90f2b1a3d4c5",
     "Title": "Provisioning",
     "Image": "images/playlists/set-up-Microsoft-365-learning-pathway.png",
     "LevelId": "ab49a955-3814-41fa-aa33-1b2757bc28ea",
@@ -3215,12 +3215,11 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "281c0108-6e20-4fc3-9459-ba267857498e",
-    "Description": "Ontdek wat er nieuw is/wat er is gewijzigd voor de nieuwste update van Microsoft 365 leerpaden",
+    "Description": "Provisioning",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
       "ac343dbd-1ffb-4235-a34f-5b71be6dc9ee",
-      "7d109c19-ffe7-4274-a821-5432add664c5"
     ]
   },
   {
