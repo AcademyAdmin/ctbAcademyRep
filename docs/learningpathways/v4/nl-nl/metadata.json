@@ -572,6 +572,10 @@
   ],
   "Levels": [
     {
+      "Id": "482fc9bd-0e20-4b1f-a1b5-51bd1f01c524",
+      "Name": "P365 Admin"
+    },
+    {
       "Id": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
       "Name": "Beginner"
     },
