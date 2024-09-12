@@ -220,9 +220,9 @@
       "SubjectId": "",
       "Source": "Microsoft",
       "SubCategories": [
-        {
-          "Id": "4444ff2c-5549-4ffe-8dc9-4dc184241dec",
-          "Name": "0. Handboek",
+     {
+          "Id": "9030ff2c-5549-4ffe-8dc9-4dc184241dec",
+          "Name": "Moderne werkplek",
           "Image": "images/categories/modern_workplace_trainingx.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -230,8 +230,8 @@
           "SubCategories": []
         },
         {
-          "Id": "1dd3fc25-dd5b-4459-81e9-ae382aca7a78",
-          "Name": "1. Leiderschap, strategie en beleid",
+          "Id": "9eb8fc25-dd5b-4459-81e9-ae382aca7a78",
+          "Name": "Op afstand werken",
           "Image": "images/categories/work_remotely.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -239,8 +239,8 @@
           "SubCategories": []
         },
         {
-          "Id": "51a0828d-1d27-1111-b444-9f2a698f33d8",
-          "Name": "2. Risk & Compliance",
+          "Id": "51a0828d-1d27-4931-b547-9f2a698f33d8",
+          "Name": "Beveiliging",
           "Image": "images/categories/LP-security-subcategory.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -248,8 +248,8 @@
           "SubCategories": []
         },
         {
-          "Id": "2fc3f7g6-3c22-11e2-93ad-111ddfba6d9a",
-          "Name": "3. Management van medewerkers",
+          "Id": "2fc3f8c2-3c76-44e2-93ad-086edfba6d9a",
+          "Name": "Hybride werkplek",
           "Image": "images/categories/hybridwork.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
@@ -257,8 +257,8 @@
           "SubCategories": []
         },
         {
-          "Id": "5fffe57f-346b-40b2-bec8-af0354d3582b",
-          "Name": "4. Management van middelen",
+          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
+          "Name": "Toegankelijkheid",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
           "SubjectId": "",
@@ -266,35 +266,8 @@
           "SubCategories": []
         },
         {
-          "Id": "a7f1ca95-e0gd-2225-b846-19fc8d2afa56",
-          "Name": "5. Management van processen",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "a7f1ca95-e0gd-9876-b444-19fc8d2afa56",
-          "Name": "6. Klanten en Partners",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "x7x1xx22-a2ff-1176-b111-19fc8d2afa56",
-          "Name": "7. Evaluatie van de prestaties",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "x7x1xx22-a2aa-1176-b111-19fa1a2afa56",
-          "Name": "8. Verbeteren en vernieuwen",
+          "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
+          "Name": "Samenwerking",
           "Image": "images/categories/customfeatured.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
