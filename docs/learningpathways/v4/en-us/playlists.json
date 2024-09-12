@@ -620,6 +620,24 @@
       "0d1e6ee5-6b0e-45a2-a0aa-0576ae1f6895",
       "a450d2f1-f8e9-452e-b570-088e214dcc0e"
     ]
+  },  
+ {
+    "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
+    "Title": "DOC-001 ISO27001 handboek",
+    "Image": "images/playlists/use_across_devices.png",
+    "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
+    "AudienceId": "82a23325-2e47-4ff9-8747-b6e01c452b81",
+    "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
+    "SubjectId": "",
+    "Source": "Microsoft",
+    "CatId": "3333ff2c-5549-4ffe-8dc9-4dc184241dec",
+    "Description": "Gebruik Microsoft 365 op uw werk en apparaten om verbonden te blijven, notities te maken en te lezen, toegang te krijgen tot uw bestanden op elk apparaat, impactvolle inhoud te maken, tijd te besparen, u vrijelijk uit te drukken met digitale inkt, uw werk tot leven te brengen met 3D, uw werk toegankelijk te maken en veilig en privé te blijven op het werk.",
+    "StatusTagId": "",
+    "StatusNote": "",
+    "Assets": [
+      "0d1e6ee5-6b0e-45a2-a0aa-0576ae1f6895",
+      "a450d2f1-f8e9-452e-b570-088e214dcc0e"
+    ]
   },
   {
     "Id": "9647e1aa-63a1-48d1-aea9-b0913f0f1e0b",
