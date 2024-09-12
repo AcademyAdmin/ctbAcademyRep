@@ -212,25 +212,6 @@
         }
       ]
     },
-	 {
-      "Id": "646b4eb4-32c0-4fdc-93fa-0ef895470b74",
-      "Name": "ISO",
-      "Image": "",
-      "TechnologyId": "",
-      "SubjectId": "",
-      "Source": "Microsoft",
-      "SubCategories": [
-	 {
-          "Id": "07aa7fb7-a187-4a04-a044-f881626a8cba",
-          "Name": "Aanbevolen",
-          "Image": "images/categories/recommended.png",
-          "TechnologyId": "",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        }
-      ]
-    },
     {
       "Id": "4f7378cd-7c40-4a99-9617-94681300c828",
       "Name": "Scenario's",
