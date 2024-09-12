@@ -257,7 +257,7 @@
           "SubCategories": []
         },
         {
-          "Id": "9e3f4561-7c81-4f0e-a344-91e0b94787c8",
+          "Id": "5bbbe57f-709b-40b2-bec8-af0633d3582b",
           "Name": "4. Management van middelen",
           "Image": "images/categories/accessibility.png",
           "TechnologyId": "",
@@ -266,35 +266,8 @@
           "SubCategories": []
         },
         {
-          "Id": "b9251e1a-38d7-404e-95c6-bcd5a013d923",
+          "Id": "a7f1ca95-e0eb-4715-b846-89fc8d2afa56",
           "Name": "5. Management van processen",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "e431a3d8-11c0-4785-92b6-5123a34d80a1",
-          "Name": "6. Klanten en Partners",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "d56a2f85-8dc3-46cb-9fb4-2af7c8e4cddf",
-          "Name": "7. Evaluatie van de prestaties",
-          "Image": "images/categories/customfeatured.png",
-          "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
-          "SubjectId": "",
-          "Source": "Microsoft",
-          "SubCategories": []
-        },
-        {
-          "Id": "3d6f1ab2-71c4-4311-b9b2-1534f88d2ae0",
-          "Name": "8. Verbeteren en Vernieuwen",
           "Image": "images/categories/customfeatured.png",
           "TechnologyId": "e75b9087-6bb2-417f-a696-e667bea533a7",
           "SubjectId": "",
