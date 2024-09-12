@@ -623,7 +623,7 @@
     ]
   },  
  {
-    "Id": "fa3a7737-b33d-4481-9b80-416d20b9ca9f",
+    "Id": "fa1a1111-b33d-4481-9b80-416d20b9ca9f",
     "Title": "DOC-001 ISO27001 handboek",
     "Image": "images/playlists/use_across_devices.png",
     "LevelId": "728fc9bd-0e13-4b9f-a7b5-51bd1f01c524",
@@ -632,7 +632,7 @@
     "SubjectId": "",
     "Source": "Microsoft",
     "CatId": "3333ff2c-5549-4ffe-8dc9-4dc184241dec",
-    "Description": "DOC-001 ISO27001 handboek",
+    "Description": "ISO 27001 is een standaard die gaat over informatiebeveiliging. Het beschrijft hoe je procesmatig met het beveiligen van informatie kan omgaan, met als doel om de vertrouwelijkheid, beschikbaarheid en integriteit van informatie binnen een organisatie zeker te stellen.",
     "StatusTagId": "",
     "StatusNote": "",
     "Assets": [
