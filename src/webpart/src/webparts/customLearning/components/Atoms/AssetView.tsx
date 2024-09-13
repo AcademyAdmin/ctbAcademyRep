@@ -200,6 +200,7 @@ export default class AssetView extends React.Component<IAssetViewProps, IAssetVi
         <div
           data-component={this.LOG_SOURCE}
           ref={this._IFrameCont}
+          id="CTBViewerItem"
           className={(this.props.asset.Source === CustomWebpartSource.Tenant) ? styles.spouterframe : styles.outerframe}
         >
           <iframe
